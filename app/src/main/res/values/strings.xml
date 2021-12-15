@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Funny Plans</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FUNNY PLANS</string>
+    <string name="nav_header_subtitle">Bienvenidos</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_add">Agregar</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_productos">Productos</string>
+    <string name="menu_servicios">Servicios</string>
+    <string name="menu_sucursales">Sucursales</string>
+    <string name="nameP1">Globos</string>
+    <string name="descriptionP1">Decora tu entorno con estilo</string>
+    <string name="priceP1">$10.000</string>
+    <string name="nameP2">Sombrero</string>
+    <string name="descriptionP2">Un toque de elegancia para festejar</string>
+    <string name="priceP2">$30.000</string>
+    <string name="nameP3">Esfera</string>
+    <string name="descriptionP3">Un poco de disco no cae mal</string>
+    <string name="priceP3">$100.000</string>
+    <string name="nameP4">Silbato</string>
+    <string name="descriptionP4">Que siga la alegria con este sonido</string>
+    <string name="priceP4">$12.000</string>
+    <string name="nameP5">Acordeon</string>
+    <string name="descriptionP5">Para alegrar aún más tu diversión</string>
+    <string name="priceP5">$300.000</string>
+    <string name="tvHome">Bienvenidos a nuestra APP !FUNNY PLANS! en el que serás el mejor anfitrión. ¿Qué esperas?</string>
+    <string name="nameS1">DJ</string>
+    <string name="descriptionS1">Para disfrutar con la mejor música</string>
+    <string name="priceS1">$1\'200.000</string>
+    <string name="nameS2">Banda</string>
+    <string name="descriptionS2">Si quieres música en vivo</string>
+    <string name="priceS2">$2\'000.000</string>
+    <string name="nameS3">Catering</string>
+    <string name="descriptionS3">Disfruta de la mejor comida</string>
+    <string name="priceS3">$600.000</string>
+    <string name="nameSc1">Sucursal 1</string>
+    <string name="ciudadSc1">Bogota</string>
+    <string name="lugarSc1">Centro Andino</string>
+    <string name="nameSc2">Sucursal 2</string>
+    <string name="lugarSc2">Unicentro</string>
+
+</resources>
